@@ -1,11 +1,11 @@
-# COMP8120 - Assignment 01
-## Group Information - (Name [UWinID, StudentNumber])
-1. Jainam Shah [shah2n1, 110116592]
-2. Jiajie Yang [yang4q, 110115897]
-3. Pawankumar Akbari [akbari8, 110091737]
+# Quiz Application
+## Group Members
+1. Jainam Shah
+2. Jiajie Yang
+3. Pawankumar Akbari
 
 ## Introduction
-This is a starter project for COMP-8120 F2022 at the University of Windsor. The project is a quiz application on which users can answer questions with images and see their results.
+This is a starter project. The project is a quiz application on which users can answer questions with images and see their results.
 ## Setup
     * Download and install brew from [Homebrew](https://brew.sh/)
     * Install GTK+3 from [Homebrew Formulae](https://formulae.brew.sh/formula/gtk+3)
